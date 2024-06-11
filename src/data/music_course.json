@@ -1,0 +1,112 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Beginner Guitar Lessons",
+      "slug": "beginner-guitar-lessons",
+      "price": 99.99,
+      "isFeatured": true,
+      "instructor": "John Doe",
+      "image": "/Images/download.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Advanced Piano Techniques",
+      "slug": "advanced-piano-techniques",
+      "price": 149.99,
+      "isFeatured": false,
+      "instructor": "Jane Smith",
+      "image": "/Images/paino.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Mastering the Violin",
+      "slug": "mastering-the-violin",
+      "price": 199.99,
+      "isFeatured": true,
+      "instructor": "Emily Davis",
+      "image": "/Images/violin.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Drumming for Beginners",
+      "slug": "drumming-for-beginners",
+      "price": 79.99,
+      "isFeatured": false,
+      "instructor": "Michael Brown",
+      "image": "/Images/drumming.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Jazz Saxophone",
+      "slug": "jazz-saxophone",
+      "price": 129.99,
+      "isFeatured": true,
+      "instructor": "Sarah Wilson",
+      "image": "/Images/xasophone.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Blues Harmonica",
+      "slug": "blues-harmonica",
+      "price": 89.99,
+      "isFeatured": false,
+      "instructor": "Chris Johnson",
+      "image": "/Images/harmonica.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Classical Music Theory",
+      "slug": "classical-music-theory",
+      "price": 119.99,
+      "isFeatured": true,
+      "instructor": "Anna Martinez",
+      "image": "/Images/classical.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "price": 159.99,
+      "isFeatured": false,
+      "instructor": "David Lee",
+      "image": "/Images/electronic.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Acoustic Guitar Fingerstyle",
+      "slug": "acoustic-guitar-fingerstyle",
+      "price": 109.99,
+      "isFeatured": true,
+      "instructor": "Laura Harris",
+      "image": "/Images/acostic_guiter.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Pop Vocal Training",
+      "slug": "pop-vocal-training",
+      "price": 139.99,
+      "isFeatured": false,
+      "instructor": "James White",
+      "image": "/Images/vocal.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Folk Music Essentials",
+      "slug": "folk-music-essentials",
+      "price": 99.99,
+      "isFeatured": false,
+      "instructor": "Karen Walker",
+      "image": "/Images/folk.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Latin Percussion",
+      "slug": "latin-percussion",
+      "price": 119.99,
+      "isFeatured": false,
+      "instructor": "Pedro Martinez",
+      "image": "/Images/percussion.jpeg"
+    }
+  ]
+}
